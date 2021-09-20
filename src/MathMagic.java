@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class mathMagic {
+public class MathMagic {
     public static void main(String[] args) {
             Scanner mathMagic = new Scanner(System.in);
             System.out.println("Enter any whole number: ");
